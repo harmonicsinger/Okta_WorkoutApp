@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Okta_WorkoutApp", "Okta_WorkoutApp\Okta_WorkoutApp.csproj", "{AD6780EB-58E8-421E-9A84-D6277CE3ABCF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkoutApp.Domain", "WorkoutApp.Domain\WorkoutApp.Domain.csproj", "{1FE3FBAB-1AEB-4AD9-A372-72AAAC0AFA3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkoutApp.Application", "WorkoutApp.Application\WorkoutApp.Application.csproj", "{DB323E1B-99E2-47AF-9204-4F66F98E2958}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation Layer", "1. Presentation Layer", "{AB8C434F-BFD1-4D6B-99D5-E9B865CBA1B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application Layer", "2. Application Layer", "{FD77F8EE-257B-4758-80A4-1EC047BC3DBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Domain Layer", "3. Domain Layer", "{B4349C71-2611-4A47-8426-9DD4E4B01129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD6780EB-58E8-421E-9A84-D6277CE3ABCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6780EB-58E8-421E-9A84-D6277CE3ABCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6780EB-58E8-421E-9A84-D6277CE3ABCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6780EB-58E8-421E-9A84-D6277CE3ABCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE3FBAB-1AEB-4AD9-A372-72AAAC0AFA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE3FBAB-1AEB-4AD9-A372-72AAAC0AFA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE3FBAB-1AEB-4AD9-A372-72AAAC0AFA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE3FBAB-1AEB-4AD9-A372-72AAAC0AFA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB323E1B-99E2-47AF-9204-4F66F98E2958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB323E1B-99E2-47AF-9204-4F66F98E2958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB323E1B-99E2-47AF-9204-4F66F98E2958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB323E1B-99E2-47AF-9204-4F66F98E2958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD6780EB-58E8-421E-9A84-D6277CE3ABCF} = {AB8C434F-BFD1-4D6B-99D5-E9B865CBA1B7}
+		{1FE3FBAB-1AEB-4AD9-A372-72AAAC0AFA3D} = {B4349C71-2611-4A47-8426-9DD4E4B01129}
+		{DB323E1B-99E2-47AF-9204-4F66F98E2958} = {FD77F8EE-257B-4758-80A4-1EC047BC3DBD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {315A1EBA-C1A6-4FAC-A348-965B7A45A9CD}
+	EndGlobalSection
+EndGlobal

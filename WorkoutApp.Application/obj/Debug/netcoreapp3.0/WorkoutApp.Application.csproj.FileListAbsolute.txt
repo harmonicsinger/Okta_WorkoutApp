@@ -1,0 +1,12 @@
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\obj\Debug\netcoreapp3.0\WorkoutApp.Application.csprojAssemblyReference.cache
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\obj\Debug\netcoreapp3.0\WorkoutApp.Application.AssemblyInfoInputs.cache
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\obj\Debug\netcoreapp3.0\WorkoutApp.Application.AssemblyInfo.cs
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\bin\Debug\netcoreapp3.0\WorkoutApp.Application.deps.json
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\bin\Debug\netcoreapp3.0\WorkoutApp.Application.dll
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\bin\Debug\netcoreapp3.0\WorkoutApp.Application.pdb
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\bin\Debug\netcoreapp3.0\WorkoutApp.Domain.dll
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\bin\Debug\netcoreapp3.0\WorkoutApp.Domain.pdb
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\obj\Debug\netcoreapp3.0\WorkoutApp.Application.csproj.CopyComplete
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\obj\Debug\netcoreapp3.0\WorkoutApp.Application.dll
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\obj\Debug\netcoreapp3.0\WorkoutApp.Application.pdb
+C:\Users\devar\Documents\Visual Studio 2019\Projects\Okta_WorkoutApp\WorkoutApp.Application\obj\Debug\netcoreapp3.0\WorkoutApp.Application.csproj.CoreCompileInputs.cache
